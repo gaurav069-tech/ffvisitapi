@@ -1,0 +1,21 @@
+{
+  "name": "ffvisitapi",
+  "version": "1.0.0",
+  "description": "Usage: GET /api/visit?uid=12345&region=IN&key=YOUR_KEY",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaurav069-tech/ffvisitapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gaurav069-tech/ffvisitapi/issues"
+  },
+  "homepage": "https://github.com/gaurav069-tech/ffvisitapi#readme"
+}
